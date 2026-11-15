@@ -7,28 +7,32 @@ I'm currently building practical experience in data analysis, statistics, progra
 ## 🔎 What I'm currently working on
 
 - Data Analysis with Python
-- Exploratory Data Analysis (EDA)
-- SQL and relational databases
+- Java programming and parallel programming
 - Statistics and data visualization
 - Machine Learning fundamentals
+- SQL fundamentals
 - Git and GitHub
 
 ## 🛠️ Technologies
 
-**Languages & Data**
+**Programming**
 - Python
-- SQL
+- Java
 
-**Libraries**
+**Data & Analysis**
 - Pandas
 - NumPy
 - Matplotlib
+- Jupyter Notebook
+
+**Currently learning**
+- SQL
+- Machine Learning
 - scikit-learn
 
 **Tools**
 - Git
 - GitHub
-- Jupyter Notebook
 
 ## 📊 Portfolio Projects
 
